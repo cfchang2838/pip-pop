@@ -1,0 +1,5 @@
+how install python script or module in windows.
+***hit win+R write "cmd"
+***change dir to module ,use "e:" or "cd /d e:\"
+***use "python.exe setup.py install". 
+	   
